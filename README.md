@@ -3,6 +3,8 @@
 ## Overview
 SafeSeattle is a Java-based web application designed to provide users with safety information and resources in the Seattle area. This project combines a Java backend with a dynamic web frontend, offering an interactive and informative experience for its users. This was a collaborative group project done at Northeastern University. I have uploaded it to my personal GitHub Repo. 
 
+CS5200 - Database Management Systems
+
 ## Features
 
 - **Interactive Map**: View safety information on a map of Seattle.
